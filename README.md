@@ -12,7 +12,7 @@ To bridge the gap between computers and humans.
 📖 Research on various topics
 
  ## Computing Skills
-• Programming in Python, PHP, HTML, CSS, JavaScript, C++, C#, .NET.
+• Programming in Python, PHP, HTML, CSS, JavaScript, C++, C#, .NET., VBA
 
 • Proficient in Microsoft 365.
 
