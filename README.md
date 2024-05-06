@@ -1,5 +1,4 @@
-# <span style="color:#000080;">JEREMY - @ Jeremy-19</span>
-
+# <font color="blue">JEREMY - @ Jeremy-19</font>
 Hi, I'am Jeremy- A fresh graudate with a warm and friendly demeanour always! Skilled at conflict resolution. Punctual problem solver and avid multitasker. Known for being responsible and an essential part of group projects.
 
 ## Mission
