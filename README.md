@@ -1,4 +1,4 @@
-# JEREMY - @ Jeremy-19
+# <span style="color:#000080;">JEREMY - @ Jeremy-19</span>
 
 Hi, I'am Jeremy- A fresh graudate with a warm and friendly demeanour always! Skilled at conflict resolution. Punctual problem solver and avid multitasker. Known for being responsible and an essential part of group projects.
 
@@ -11,7 +11,7 @@ To bridge the gap between computers and humans.
 ⚙️ Systems Design
 📖 Research on various topics
 
- ## Computing Skills
+## Computing Skills
 • Programming in Python, PHP, HTML, CSS, JavaScript, C++, C#, .NET., VBA
 
 • Proficient in Microsoft 365.
